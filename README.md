@@ -5,5 +5,3 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=truatpasteurdotfr&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=truatpasteurdotfr&theme=nord_dark)
-
-ref: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
